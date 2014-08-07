@@ -8,6 +8,7 @@ public class Main{
         String binary;
         int digits;
         Scanner input = new Scanner(System.in);
+        String[] places;
 
 
         System.out.println("Enter a binary number");
